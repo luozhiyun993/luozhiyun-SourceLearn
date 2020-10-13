@@ -33,9 +33,9 @@
 
 [12.深入k8s：kubelet创建pod流程源码分析](%E6%B7%B1%E5%85%A5k8s/12.深入k8s：kubelet创建pod流程源码分析.md)
 
-[13.深入k8s：Pod 水平自动扩缩HPA及其源码分析](%E6%B7%B1%E5%85%A5k8s/13.深入k8s：Pod 水平自动扩缩HPA及其源码分析.md)
+[13.深入k8s：Pod水平自动扩缩HPA及其源码分析](%E6%B7%B1%E5%85%A5k8s/13.深入k8s：Pod 水平自动扩缩HPA及其源码分析.md)
 
-[14.深入k8s：kube-proxy ipvs及其源码分析](%E6%B7%B1%E5%85%A5k8s/14.深入k8s：kube-proxy ipvs及其源码分析.md)
+[14.深入k8s：kube-proxy代理ipvs及其源码分析](%E6%B7%B1%E5%85%A5k8s/14.深入k8s：kube-proxy ipvs及其源码分析.md)
 
 [15.深入k8s：Event事件处理及其源码分析](%E6%B7%B1%E5%85%A5k8s/15.深入k8s：Event事件处理及其源码分析.md)
 
